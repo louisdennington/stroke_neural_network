@@ -1,6 +1,6 @@
 import pandas as pd
 
-dfstroke = pd.read_csv(r'C:\Users\louis\OneDrive - University College London (1)\MSc Health Data Science\0 - Personal projects\stroke_dashboard\stroke_dashboard\healthcare-dataset-stroke-data.csv')
+dfstroke = pd.read_csv(r'C:\Users\louis\OneDrive - University College London\MSc Health Data Science\0 - Personal projects\stroke_neural_network\healthcare-dataset-stroke-data.csv')
 print(dfstroke.info())
 
 # Drop ID variable
